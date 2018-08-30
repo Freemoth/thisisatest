@@ -9,4 +9,10 @@
 # 'touch' command is an Apple thing, for windows use 'type nul >> readme.txt' 
 #
 # GitHub also provides a nice intro re: push, pull, etc. (https://guides.github.com/activities/hello-world/)
+#
+# couple of useful commands to remember depending on where you're working:
+#    sending updates from workstation to GitHub 
+#             git push origin master
+#    getting updates from GitHub to the workstation
+#             git pull origin master 
 
