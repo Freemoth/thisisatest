@@ -7,3 +7,4 @@
 # couple of notes: need to install Git on workstation (see https://git-scm.com/)
 # 'touch' command is an Apple thing, for windows use 'type nul >> readme.txt' 
 #
+# GitHub also provides a nice intro re: push, pull, etc. (https://guides.github.com/activities/hello-world/)
