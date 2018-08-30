@@ -12,7 +12,7 @@
 #
 # couple of useful commands to remember depending on where you're working:
 #    sending updates from workstation to GitHub 
-#             git push origin master
+##             git push origin master
 #    getting updates from GitHub to the workstation
-#             git pull origin master 
+##             git pull origin master 
 
